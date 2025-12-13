@@ -64,7 +64,7 @@ params:
     enabled: true
     title: "Aswinkumar V"
     subtitle: "Senior Undergraduate Computer Science student passionate about Machine Learning, Computer Vision, and Generative AI."
-    imageUrl: "potrait.png"
+    imageUrl: "potrait.jpeg"
     imageWidth: 160
     imageHeight: 160
     buttons:
